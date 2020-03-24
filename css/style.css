@@ -31,9 +31,13 @@ header{
 	font-family: 'lobster';
 	padding: 25px;
 }
-.yep{
-	background-color: #FF6796;
-	
+
+.bts{
+	border-radius: 100px;
+	width: 200px;
+	height: 180px;
+	background-color: #FF6796!important;
+	border: 10px solid #FF6796;
 }
 
 #product{
@@ -71,7 +75,7 @@ header{
 	text-align: center;
 	color: #fff;
 	font-size: 50px;
-	padding: 3%
+	padding: 5%
 }
 
 #features h2{
@@ -90,8 +94,7 @@ header{
 	font-size: 25px;
 }
 
-#about{
-	padding: 3%;
+#about{;
 	text-align: center;
 	color: #444444;
 }
@@ -114,6 +117,7 @@ header{
 	background-color: #01BEFE;
 	text-align: center;
 	color: #fff;
+	padding: 3%;
 }
 #team h2{
 	text-align: center;
@@ -147,6 +151,10 @@ header{
 .bt{
 	border-radius: 100px;
 	width: 200px;
-	height: 180px;
+	height: 185px;
+	border: 10px solid #FF6796;
 	background-color: #FF6796;
+}
+.yup{
+	border-radius: 10px;
 }
