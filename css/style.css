@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster|Open+Sans:300,400,600,700,800&display=swap');
+body{
+	font-size: Segoe UI;
+	font-size: 15px;
+	color: #777;
+	font-family: 'Lobster', cursive;
+	font-family: 'Open Sans', sans-serif;
+}
+header{
+	background-color: #ff6796;	
+}
+
+#slides h2{
+	position: absolute;
+	width: 100%;
+	top: 100px;
+	text-align: center;
+	color: #fff;
+	font-family: 'Lobster';
+	font-size: 150px;
+}
+
+#works{
+	padding: 3%;
+	background-color: #FFf;
+}
+#works h2{
+	text-align: center;
+	font-size: 30px;
+	color: #444444;
+	font-family: 'lobster';
+	padding: 25px;
+}
+.yep{
+	background-color: #FF6796;
+	
+}
+
+#product{
+	background-color: #01BEFE;
+	text-align: center;
+	padding: 3%;
+}
+
+#product h2{
+	text-align: center;
+	font-size: 35px;
+	color: #fff;
+	font-family: 'lobster';
+	padding: 20px;
+}
+
+#product h6{
+	font-family: 'lobster';
+	font-size: 25px;
+	background-color: #fff;
+	border-radius: 100px;
+	color: #000;
+}
+
+#product p{
+	font-family: 'open Sans';
+	color: #000;
+	font-size: 15px;
+	background-color: #fff;
+	border-radius: 10px; 
+}
+
+#features{
+	background-color: #FF6796;
+	text-align: center;
+	color: #fff;
+	font-size: 50px;
+	padding: 3%
+}
+
+#features h2{
+	text-align: center;
+	font-size: 35px;
+	color: #fff;
+	font-family: 'lobster';
+	padding: 20px;
+}
+
+#features p{
+	font-size: 15px;
+}
+#features h6{
+	font-family: 'lobster';
+	font-size: 25px;
+}
+
+#about{
+	padding: 3%;
+	text-align: center;
+	color: #444444;
+}
+
+#about h2{
+	text-align: left;
+	font-size: 35px;
+	color: #444444;;
+	font-family: 'lobster';
+	padding: 20px;
+}
+
+.btn-negro{
+	color: #fff;
+	background-color: #01BEFE;
+	border-radius: 100px;
+}
+
+#team{
+	background-color: #01BEFE;
+	text-align: center;
+	color: #fff;
+}
+#team h2{
+	text-align: center;
+	font-size: 35px;
+	color: #fff;
+	font-family: 'lobster';
+	padding: 20px;
+}
+
+#team h6{
+	color: #fff;
+	font-family: 'lobster';
+	font-size: 20px;
+}
+
+#team p{
+	font-family: 'Open sans';
+	color: #fff;
+}
+
+.mod i{
+	font-size: 20px;
+	padding: 5px 10px 10px 10px;
+	color: #fff;
+	text-align: center;
+	width: 100%;
+	padding-bottom: 7%;
+	border: 1px solid #fff;
+	border-radius: 10px;
+}
+.bt{
+	border-radius: 100px;
+	width: 200px;
+	height: 180px;
+	background-color: #FF6796;
+}
